@@ -1,5 +1,7 @@
-# Resection
+# Resection 单像空间后方交会
+
 Photogrammetry Resection
+用于求解相机外方位元素
 
 git clone https://github.com/ZHULiyuanRS/Resection/edit/master
 
