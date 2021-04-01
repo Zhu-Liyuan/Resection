@@ -3,7 +3,7 @@
 Photogrammetry Resection
 用于求解相机外方位元素
 
-git clone https://github.com/ZHULiyuan/Resection/edit/master
+git clone https://github.com/ZhuLiyuan/Resection/edit/master
 
 cd Resection
 
