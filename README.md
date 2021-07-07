@@ -3,7 +3,7 @@
 Photogrammetry Resection
 用于求解相机外参
 
-git clone https://github.com/ZhuLiyuan/Resection/edit/master
+git clone https://github.com/Zhu-Liyuan/Resection.git
 
 cd Resection
 
