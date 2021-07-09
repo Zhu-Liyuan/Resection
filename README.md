@@ -1,6 +1,6 @@
 # Resection 单像空间后方交会
 
-Photogrammetry Resection
+Backward Resection in Photogrammetry
 用于求解相机外参
 
 git clone https://github.com/Zhu-Liyuan/Resection.git
