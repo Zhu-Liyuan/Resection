@@ -1,6 +1,4 @@
-# Resection
-
-Backward Resection in Photogrammetry
+# Backward Intersection in Photogrammetry
 
 
 git clone https://github.com/Zhu-Liyuan/Resection.git
